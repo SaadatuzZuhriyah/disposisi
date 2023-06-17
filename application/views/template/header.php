@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Static Navigation - SB Admin</title>
+    <title>Sistem Point</title>
     <link href="<?= base_url('assets/css/styles.css') ?>" rel="stylesheet" />
-    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <script src="https://cdjns.cloudflare.com/ajax/libs/font-awesome/15.5.3/js/all.min.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
